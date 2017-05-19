@@ -1,7 +1,7 @@
 # rpque
 人品队列
 
-A replicated priority queue
+A replicated priority queue cluster
 
 ## Use Case
 
