@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "github.com/hashicorp/raft": {
+            "revision": "27f25bcc392fce1551deefe8a58b0d4d233fa2f8"
+        },
+    }
+}
